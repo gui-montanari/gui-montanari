@@ -73,9 +73,9 @@ Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a efici
 <br>
 
 ## 🌱 Atualmente estou aprendendo...<br>
-- Aprofundando conhecimentos em Deep Learning<br>
+- Aprimorando habilidades em Deep Learning<br>
 - Explorando arquiteturas de microsserviços<br>
-- Aprimorando habilidades em DevOps<br>
+- Aprofundando conhecimentos em Cloud e Bigdata<br>
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-montanari-946ab6297/)
