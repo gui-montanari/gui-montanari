@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em Python e suas aplica
 </div>
 <br>
 
-### 👁️ Visão Computacional: Monitoramento de Produção de Hambúrgueres
+### 👁️ Visão Computacional: Monitoramento de Produção
 
 Desenvolvi um sistema de visão computacional para monitorar uma esteira de produção de hambúrgueres em tempo real. Este projeto demonstra a aplicação prática de técnicas de processamento de imagem e vídeo em um cenário industrial.
 
@@ -34,7 +34,7 @@ Desenvolvi um sistema de visão computacional para monitorar uma esteira de prod
 Este projeto, embora desenvolvido de forma despretensiosa, demonstra a aplicabilidade da visão computacional em processos industriais, oferecendo insights valiosos sobre eficiência e controle de qualidade na produção de alimentos.
 <br>
 <br>
-### 🤖 CryptoPredict: Previsão de Valores de Criptomoedas
+### 🤖 CryptoPredict: Previsão de Valores e Tendência de Mercado
 
 Desenvolvi um modelo de machine learning para prever tendências de preços de criptomoedas. O projeto utiliza diversos indicadores técnicos utilizados na leitura de gráficos para analisar e prever movimentos do mercado com alta precisão.
 
