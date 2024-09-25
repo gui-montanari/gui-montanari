@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gui
 
 
-## 🚀 Sobre mim
+
 Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine learning e desenvolvimento web. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
 
 
