@@ -34,7 +34,7 @@ Desenvolvi um sistema de visão computacional para monitorar uma esteira de prod
 Este projeto, embora desenvolvido de forma despretensiosa, demonstra a aplicabilidade da visão computacional em processos industriais, oferecendo insights valiosos sobre eficiência e controle de qualidade na produção de alimentos.
 <br>
 <br>
-### 🤖 CryptoPredict: Previsão de Valores e Tendência de Mercado
+### 🤖 Deep Learning: Previsão de Valores e Tendência de Mercado
 
 Desenvolvi um modelo de machine learning para prever tendências de preços de criptomoedas. O projeto utiliza diversos indicadores técnicos utilizados na leitura de gráficos para analisar e prever movimentos do mercado com alta precisão.
 
