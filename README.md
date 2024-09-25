@@ -13,8 +13,25 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em Python e suas aplica
 
 ## 🏆 Projetos em Destaque
 
+### 👁️ Visão Computacional: Monitoramento de Produção de Hambúrgueres
+
+Desenvolvi um sistema de visão computacional para monitorar uma esteira de produção de hambúrgueres em tempo real. Este projeto demonstra a aplicação prática de técnicas de processamento de imagem e vídeo em um cenário industrial.
+
+**Características principais:**
+- Leitura e processamento de vídeo em tempo real de uma esteira de produção
+- Detecção e rastreamento de hambúrgueres na linha de produção
+- Análise de tempo de produção e eficiência do processo
+
+**Tecnologias Utilizadas:**
+- OpenCV (cv2) para processamento de imagem e vídeo
+- NumPy para cálculos numéricos eficientes
+- Timedelta para medições precisas de tempo
+- Deque para gerenciamento eficiente de dados em streaming
+
+Este projeto, embora desenvolvido de forma despretensiosa, demonstra a aplicabilidade da visão computacional em processos industriais, oferecendo insights valiosos sobre eficiência e controle de qualidade na produção de alimentos.
+
 ### 🤖 CryptoPredict: Previsão de Valores de Criptomoedas
-Desenvolvi um modelo de machine learning para prever tendências de preços de criptomoedas. O projeto utiliza diversos indicadores técnicos para analisar e prever movimentos do mercado com alta precisão.
+Desenvolvi um modelo de machine learning para prever tendências de preços de criptomoedas. O projeto utiliza diversos indicadores técnicos utilizados na leitura de gráficos para analisar e prever movimentos do mercado com alta precisão.
 
 **Objetivos:**
 - Prever tendências de preços de criptomoedas a curto e médio prazo
