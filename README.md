@@ -14,9 +14,9 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em Python e suas aplica
 ![API Development](https://img.shields.io/badge/-API%20Development-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 ***
----
-
+<div>
 ## 🏆 Projetos em Destaque
+</div>
 <br>
 ### 👁️ Visão Computacional: Monitoramento de Produção de Hambúrgueres
 
@@ -68,9 +68,9 @@ Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a efici
 - Testes automatizados para garantir a confiabilidade e robustez da API
 <br>
 <br>
-## 🌱 Atualmente estou aprendendo...
-- Aprofundando conhecimentos em Deep Learning
-- Explorando arquiteturas de microsserviços
+## 🌱 Atualmente estou aprendendo...<br>
+- Aprofundando conhecimentos em Deep Learning<br>
+- Explorando arquiteturas de microsserviços<br>
 - Aprimorando habilidades em DevOps
 
 ## 📫 Como me encontrar
