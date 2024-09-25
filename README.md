@@ -23,10 +23,7 @@ Desenvolvi um sistema de visão computacional para monitorar uma esteira de prod
 - Análise de tempo de produção e eficiência do processo
 
 **Tecnologias Utilizadas:**
-- OpenCV (cv2) para processamento de imagem e vídeo
-- NumPy para cálculos numéricos eficientes
-- Timedelta para medições precisas de tempo
-- Deque para gerenciamento eficiente de dados em streaming
+- OpenCV (cv2), NumPy, Timedelta e Deque
 
 Este projeto, embora desenvolvido de forma despretensiosa, demonstra a aplicabilidade da visão computacional em processos industriais, oferecendo insights valiosos sobre eficiência e controle de qualidade na produção de alimentos.
 
@@ -39,10 +36,7 @@ Desenvolvi um modelo de machine learning para prever tendências de preços de c
 - Explorar a eficácia de diferentes indicadores técnicos na previsão de mercado
 
 **Tecnologias Utilizadas:**
-- Python para processamento de dados e implementação do modelo
-- Bibliotecas como Pandas para manipulação de dados e Scikit-learn para modelagem
-- TensorFlow/Keras para construção e treinamento de redes neurais
-- Matplotlib e Seaborn para visualização de dados e resultados
+- Python, Pandas, TensorFlow/Keras, Matplotlib
 
 O modelo alcança uma precisão notável na identificação de tendências de mercado, oferecendo uma ferramenta poderosa para análise de criptomoedas.
 
@@ -65,9 +59,6 @@ Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a efici
 - Documentação interativa da API gerada automaticamente
 - Testes automatizados para garantir a confiabilidade e robustez da API
 
-## 📊 Estatísticas do GitHub
-
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gui-montanari&show_icons=true&theme=radical)
 
 ## 🌱 Atualmente estou aprendendo...
 - Aprofundando conhecimentos em Deep Learning
