@@ -21,11 +21,11 @@ Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine
 
 ### 👁️ Visão Computacional: Monitoramento de Produção
 
-Desenvolvi um sistema de visão computacional para monitorar uma esteira de produção de hambúrgueres em tempo real. Este projeto demonstra a aplicação prática de técnicas de processamento de imagem e vídeo em um cenário industrial.
+Desenvolvi um sistema de visão computacional para monitorar uma esteira de produção em tempo real. Este projeto demonstra a aplicação prática de técnicas de processamento de imagem e vídeo em um cenário industrial.
 
 **Características principais:**
 - Leitura e processamento de vídeo em tempo real de uma esteira de produção
-- Detecção e rastreamento de hambúrgueres na linha de produção
+- Detecção e rastreamento do produto na linha de produção
 - Análise de tempo de produção e eficiência do processo
 
 **Tecnologias Utilizadas:**
