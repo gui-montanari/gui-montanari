@@ -76,6 +76,10 @@ Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a efici
 - Aprimorando habilidades em Deep Learning<br>
 - Explorando arquiteturas de microsserviços<br>
 - Aprofundando conhecimentos em Cloud e Bigdata<br>
+<br>
+## VSCode
+Python Environment Manager, Git History, GitLens, Bookmarks, Better Comments, Python Debugger, Code Runner, Pylint, Pylance, Jest, Thunder Client, Material Icon Theme, vscode-icons, Prettier, Regex Snippets, vsdcode-pdf, Pola code, AppMap, Jupyter, Bito
+<br>
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-montanari-946ab6297/)
@@ -84,10 +88,3 @@ Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a efici
 
 ## 💬 Vamos conversar!
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Sinta-se à vontade para entrar em contato comigo para discutir projetos interessantes ou trocar ideias sobre tecnologia!
-<br>
-<br>
-<br>
-<br>
-## IDE VSCode
-Python Environment Manager, Git History, GitLens, Bookmarks, Better Comments, Python Debugger, Code Runner, Pylint, Pylance, Jest, Thunder Client, Material Icon Theme, vscode-icons, Prettier, Regex Snippets, vsdcode-pdf, Pola code, AppMap, Jupyter, Bito
-<br>
