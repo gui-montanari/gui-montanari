@@ -78,7 +78,7 @@ Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a efici
 - Aprofundando conhecimentos em Cloud e Bigdata<br>
 
 ## VSCode<br>
-Python Environment Manager, Git History, GitLens, Bookmarks, Better Comments, Python Debugger, Code Runner, Pylint, Pylance, Jest, Thunder Client, Material Icon Theme, vscode-icons, Prettier, Regex Snippets, vsdcode-pdf, Pola code, AppMap, Jupyter, Bito
+Python Environment Manager, Git History, GitLens, Bookmarks, Better Comments, Python Debugger, Code Runner, Pylint, Pylance, Jest, Thunder Client, Material Icon Theme, Monokai Pro, Prettier, Regex Snippets, vsdcode-pdf, Pola code, AppMap, Jupyter, Bito
 <br>
 
 ## 📫 Como me encontrar
