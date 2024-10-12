@@ -20,6 +20,7 @@ Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gui-montanari)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilhermemontanari8@gmail.com)
 <br>
+<br>
 ***
 
 ## 🏆 Projetos em Destaque
