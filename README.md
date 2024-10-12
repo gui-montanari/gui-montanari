@@ -88,6 +88,6 @@ Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Sinta-
 <br>
 <br>
 <br>
-## vscode extensions
+## IDE VSCode
 Python Environment Manager, Git History, GitLens, Bookmarks, Better Comments, Python Debugger, Code Runner, Pylint, Pylance, Jest, Thunder Client, Material Icon Theme, vscode-icons, Prettier, Regex Snippets, vsdcode-pdf, Pola code, AppMap, Jupyter, Bito
 <br>
