@@ -4,7 +4,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilhermemontanari8@gmail.com)
 
 
-Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine learning e desenvolvimento web. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
+Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine learning e desenvolvimento de sistemas. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
 <br>
 ***
 ## 💻 Tecnologias e Ferramentas
