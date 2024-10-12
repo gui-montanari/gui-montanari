@@ -12,7 +12,12 @@ Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![API Development](https://img.shields.io/badge/-API%20Development-009688?style=flat-square&logo=FastAPI&logoColor=white)
-
+<br>
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-montanari-946ab6297/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gui-montanari)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilhermemontanari8@gmail.com)
+<br>
 ***
 
 ## 🏆 Projetos em Destaque
@@ -80,11 +85,6 @@ Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a efici
 ## VSCode<br>
 Python Environment Manager, Git History, GitLens, Bookmarks, Better Comments, Python Debugger, Code Runner, Pylint, Pylance, Jest, Thunder Client, Material Icon Theme, Monokai Pro, Prettier, Regex Snippets, vsdcode-pdf, Pola code, AppMap, Jupyter, Bito
 <br>
-
-## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-montanari-946ab6297/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gui-montanari)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilhermemontanari8@gmail.com)
 
 ## 💬 Vamos conversar!
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Sinta-se à vontade para entrar em contato comigo para discutir projetos interessantes ou trocar ideias sobre tecnologia!
