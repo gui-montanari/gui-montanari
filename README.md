@@ -3,8 +3,8 @@
 
 
 Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine learning e desenvolvimento web. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
-
-
+<br>
+***
 ## 💻 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -14,6 +14,7 @@ Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine
 ![API Development](https://img.shields.io/badge/-API%20Development-009688?style=flat-square&logo=FastAPI&logoColor=white)
 <br>
 <br>
+***
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-montanari-946ab6297/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gui-montanari)
