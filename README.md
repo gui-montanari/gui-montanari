@@ -1,83 +1,43 @@
-# 👋 Olá, eu sou Gui
-<br>
+# Guilherme Montanari
+### Software Engineer | AI & Machine Learning Specialist
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-montanari-946ab6297/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gui-montanari)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:guilhermemontanari8@gmail.com)
+Desenvolvedor focado em construir sistemas inteligentes, escaláveis e resilientes. Minha experiência une a engenharia de backend robusta com o desenvolvimento de agentes de IA de última geração, sempre priorizando a observabilidade e a qualidade de produção.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-montanari-946ab6297/)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:guilhermemontanari8@gmail.com)
 
-Sou apaixonado por tecnologia, com foco em Python e suas aplicações em machine learning e desenvolvimento de sistemas. Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos.
-<br>
-***
-## 💻 Tecnologias e Ferramentas
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Web Development](https://img.shields.io/badge/-Web%20Development-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![API Development](https://img.shields.io/badge/-API%20Development-009688?style=flat-square&logo=FastAPI&logoColor=white)
-<br>
-<br>
-***
+## 🛠 Tech Stack & Expertise
 
-## 🏆 Projetos em Destaque
-</div>
-<br>
+* **AI Engineering:** LangGraph (Agentes), DSPy (Prompt Optimization), Pydantic AI (Structured Output), LLM Integration.
+* **Observability & Ops:** LangFuse (Tracing & Evals), MLOps pipelines.
+* **Backend & API:** Python (Expert), FastAPI, SQLModel, Asynchronous Architectures.
+* **Data & Machine Learning:** TensorFlow, OpenCV, Scikit-Learn, Pandas, NumPy.
+* **Infra & Ferramentas:** PostgreSQL, Git, Docker.
 
-### 👁️ Visão Computacional: Monitoramento de Produção
+---
 
-Desenvolvi um sistema de visão computacional para monitorar uma esteira de produção em tempo real. Este projeto demonstra a aplicação prática de técnicas de processamento de imagem e vídeo em um cenário industrial.
+## 🚀 Projetos em Destaque
 
-**Características principais:**
-- Leitura e processamento de vídeo em tempo real de uma esteira de produção
-- Detecção e rastreamento do produto na linha de produção
-- Análise de tempo de produção e eficiência do processo
+* **Autonomous AI Agents:** Desenvolvimento de sistemas multi-agente utilizando **LangGraph** para fluxos orquestrados e resilientes. Foco na integração de **Pydantic AI** para garantir tipagem forte e validação de dados em pipelines de LLM.
+* **Prompt Optimization Engine:** Implementação de estratégias de otimização programática com **DSPy**, visando substituir o ajuste manual de prompts por processos sistemáticos de melhoria de assertividade.
+* **AI Observability Framework:** Estruturação de ambientes com **LangFuse** para monitoramento de latência, controle de custos e avaliação contínua (evals) de modelos em produção.
+* **Industrial Computer Vision:** Sistema de monitoramento em tempo real para controle de qualidade, utilizando processamento de stream com **OpenCV** para extração de KPIs industriais.
+* **Predictive Market Analysis:** Modelo de Deep Learning (TensorFlow) para análise de séries temporais com suporte a decisões quantitativas.
 
-**Tecnologias Utilizadas:**
-- Python, OpenCV (cv2), NumPy, Timedelta e Deque
+---
 
-Este projeto, embora desenvolvido de forma despretensiosa, demonstra a aplicabilidade da visão computacional em processos industriais, oferecendo insights valiosos sobre eficiência e controle de qualidade na produção de alimentos.
-<br>
-<br>
-### 🤖 Deep Learning: Previsão de Valores e Tendência de Mercado
+## 💡 Architecture Approach
 
-Desenvolvi um modelo de machine learning para prever tendências de preços de criptomoedas. O projeto utiliza diversos indicadores técnicos utilizados na leitura de gráficos para analisar e prever movimentos do mercado com alta precisão.
+Minha abordagem de desenvolvimento baseia-se na construção de sistemas altamente observáveis e previsíveis. Acredito que a transição de protótipos de IA para produtos corporativos exige:
+1. **Estruturação:** Uso de tipagem forte (Pydantic) para garantir a integridade dos dados.
+2. **Orquestração:** Fluxos cíclicos e controlados (LangGraph).
+3. **Validação:** Ciclos de avaliação programática (DSPy + LangFuse) em vez de testes manuais.
 
-**Objetivos:**
-- Prever tendências de preços de criptomoedas a curto e médio prazo
-- Fornecer insights valiosos para tomada de decisões de investimento
-- Explorar a eficácia de diferentes indicadores técnicos na previsão de mercado
+---
 
-**Tecnologias Utilizadas:**
-- Python, Pandas, TensorFlow/Keras, Matplotlib
+## 📈 Status
+*Aprimorando constantemente a integração entre agentes autônomos e sistemas transacionais.*
 
-O modelo alcança uma precisão notável na identificação de tendências de mercado, oferecendo uma ferramenta poderosa para análise de criptomoedas.
-<br>
-<br>
-### 🌐 Aplicação Web com Jinja e FastAPI
-
-Desenvolvi uma aplicação web robusta e eficiente utilizando FastAPI como backend e Jinja2 para renderização de templates no frontend. Esta aplicação demonstra a integração perfeita entre um framework web moderno e assíncrono (FastAPI) com um motor de templates poderoso e flexível (Jinja2).
-
-**Características principais:**
-- Backend assíncrono de alto desempenho com FastAPI
-- Frontend dinâmico e responsivo usando templates Jinja2
-- Roteamento eficiente e validação de dados com Pydantic
-- Documentação automática da API com Swagger UI
-<br>
-
-### 🔗 API RESTful com FastAPI e SQLModel
-
-Criei uma API RESTful completa utilizando FastAPI e SQLModel, combinando a eficiência do FastAPI com a simplicidade e poder do SQLModel para interações com banco de dados.
-
-**Destaques do projeto:**
-- CRUD operations completas para recursos da API
-- Integração perfeita entre FastAPI e SQLModel para operações de banco de dados
-- Autenticação e autorização implementadas com JWT
-- Documentação interativa da API gerada automaticamente
-- Testes automatizados para garantir a confiabilidade e robustez da API
-<br>
-
-## 🌱 Atualmente estou aprendendo...<br>
-- Aprimorando habilidades em Deep Learning<br>
-- Aprofundando conhecimentos em I.A.<br>
-<br>
+---
